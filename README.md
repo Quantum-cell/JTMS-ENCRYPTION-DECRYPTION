@@ -31,6 +31,8 @@ Unicode Characters: Your encrypted message will include some Unicode characters.
 
 • Provide an appearance of containing alternative/additional secrets.
 
+
+
 Please make sure that any communication method used to transmit your message supports these characters.
 
 
