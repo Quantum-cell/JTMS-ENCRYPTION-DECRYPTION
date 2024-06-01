@@ -24,9 +24,13 @@ Symbol Usage (both yours and this programs): Please restrict your use of symbols
 The encryption process will replace non-breaking spaces, zero-width spaces and tabs with regular spaces (U+0020).
 
 Unicode Characters: Your encrypted message will include some Unicode characters. These symbols serve to:
+
 • Mark the placement of spaces and line breaks in the original and decrypted messages.
+
 • Obfuscate the case (uppercase and lowercase) of letters.
+
 • Provide an appearance of containing alternative/additional secrets.
+
 Please make sure that any communication method used to transmit your message supports these characters.
 
 
