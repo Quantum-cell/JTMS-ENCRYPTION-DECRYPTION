@@ -1,7 +1,7 @@
 # JTMS-ENCRYPTION-DECRYPTION
 An encryption/decryption program
 
-As with my other uploads onto GitHub, the reason this has been posted is that I reckon it's pretty darn nifty that someone with ZERO coding knowledge can wrestle something pretty sophisticated out of ChatGPT in one working week. 
+As with my other uploads onto GitHub, the reason this has been posted is that I reckon it's pretty darn nifty that someone with ZERO coding knowledge can wrestle something pretty sophisticated out of ChatGPT, this time with a longer commitment of one working week. 
 
 This program is designed to encrypt natural conversational text.
 The mechanics of this program were inspired by those horrible little plastic tile puzzle toys you get in kids party bags.
