@@ -155,7 +155,6 @@ def spaceless_words(s):
     s = s.replace('\n', 'с')  # Replace newlines. This is the first of 5 occasions certain Cyrillic characters are used because of their similarity to Latin letters. 
     s = s.replace('\u200B', ' ')  # Replace zero-width spaces
 
-        . 
     # Step 1 - if a capital letter is preceded by a space, replace with Circled Latin Small Letters 
     s = s.replace(' A', 'ⓐ').replace(' B', 'ⓑ').replace(' C', 'ⓒ').replace(' D', 'ⓓ').replace(' E', 'ⓔ') \
          .replace(' F', 'ⓕ').replace(' G', 'ⓖ').replace(' H', 'ⓗ').replace(' I', 'ⓘ').replace(' J', 'ⓙ') \
