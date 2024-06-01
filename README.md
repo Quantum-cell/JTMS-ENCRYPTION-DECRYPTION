@@ -33,32 +33,59 @@ Please make sure that any communication method used to transmit your message sup
 The following Unicode characters are used in the encryption:
 
 Circled Latin Small Letters: ⓐ, ⓑ, ⓒ,... ⓩ (U+24D0 to U+24E9)
+
 Circled Latin Capital Letters: Ⓐ, Ⓑ, Ⓒ,... Ⓩ (U+24B6 to U+24CF)
+
 Squared Latin Capital Letters: 🄰, 🄱, 🄲,... 🅉 (U+1F130 to U+1F149)
+
 Circled Digits: ①, ②, ③,... ⓪ (U+2460 to U+2469)
+
 Negative Circled Latin Capital Letters: 🅐, 🅑, 🅒,... 🅙 (U+1F150 to U+1F159) 
+
 █ (Full Block): (U+2588)
+
 ¶ (Pilcrow Sign): U+00B6 
+
 § (Section Sign): U+00A7
+
 ¦ (Broken Vertical Bar): U+00A6 
+
 † (Dagger): U+2020
-‡ (Double Dagger): U+2021 
+
+‡ (Double Dagger): U+2021
+
 • (Bullet): U+2022
+
 ƒ (Latin Small Letter F With Hook): U+0192 
+
 ◊ (Lozenge): U+25CA
+
 ‹ (Single Left-Pointing Angle Quotation Mark): U+2039 
+
 ‼ (Double Exclamation Mark): U+203C
+
 ‽ (Interrobang): U+203D 
+
 … (Horizontal Ellipsis): U+2026
+
 ¿ (Inverted Question Mark): U+00BF 
+
 ¤ (Currency Sign): U+00A4
+
 › (Single Right-Pointing Angle Quotation Mark): U+203A 
+
 с (Cyrillic Small Letter Es): U+0441
+
 « (Left-Pointing Double Angle Quotation Mark): U+00AB 
+
 һ (Cyrillic Small Letter Shha): U+04BB
+
 і (Cyrillic Small Letter Byelorussian-Ukrainian I): U+0456 
+
 ј (Cyrillic Small Letter Je): U+0458
+
 р (Cyrillic Small Letter Er): U+0440 
+
 
 In both the Automatic Scrambling and Custom Scrambling modes, users will be asked to nominate a scrambling grid size.
 Details of this grid-size choice will be embedded into the encrypted message.
