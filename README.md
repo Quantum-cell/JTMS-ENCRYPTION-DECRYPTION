@@ -12,7 +12,7 @@ This should hopefully become more clear if you want to look through the code.
 
 
 Note: There are some limitations to this programs functionality, and I hope I've considered enough of them here. Users are encouraged to report any bugs or provide feedback.
-Or do it yourself, you're probably moch more adept at this sh*t than I am. I hope I have structured the code in a way to make it useful to people who might want to edit the algorithm used in the function named snake_pattern_seq(). 
+Or do it yourself, you're probably much more adept at this sh*t than I am. I hope I have structured the code in a way to make it useful to people who might want to edit the algorithm used in the function named snake_pattern_seq(). 
 
 
 Input Constraints & Warnings: Messages being encrypted should be composed of the ISO basic English alphabet, including lowercase and uppercase letters, the basic latin numerical digits 0 to 9, spaces and basic punctuation. To repeat, this program is designed to encrypt natural conversational text.
