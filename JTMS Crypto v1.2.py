@@ -592,6 +592,7 @@ def autoslide(elements):
             move_sequence += "R"
         if demo_mode == 1:
             print_grid(grid)  # Print the updated state of the grid after each move
+            print()
    
     combined_row = "" # initialise empty combined_row string
     for row in grid:  # read grid off row by row into combined_row
