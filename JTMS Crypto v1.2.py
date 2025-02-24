@@ -83,7 +83,7 @@ Read_me1 = """_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*__*_*_*_*_*_*_*_*_*_*_
 
 This program is designed to encrypt natural conversational text.
 The mechanics of this program were inspired by those horrible little plastic tile puzzle toys you get in kids party bags.
-For ease of implementation, rather than sliding a tile into a blank space, we use the perspective that we are sliding/swaping the blank space itself.
+For ease of implementation, rather than sliding a tile into a empty space, we use the perspective that we are sliding/swaping the empty space itself.
 This should hopefully become more clear if you want to look through the code.
 
 
